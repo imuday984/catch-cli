@@ -1,0 +1,15 @@
+{
+  "name": "catch-cli",
+  "version": "1.0.0",
+  "description": "AI Error Wrapper",
+  "main": "index.js",
+  "bin": {
+    "catch": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
